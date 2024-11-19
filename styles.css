@@ -1,0 +1,25 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: aliceblue;
+    margin: 0%;
+    padding: 0%;
+}
+header{
+    background-color: bisque;
+    color: aquamarine;
+    padding: 10PX 0;
+    text-align: center;
+}
+nav ul{
+    list-style: none;
+    padding: 0%;
+}
+nav ul li{
+    display: inline;
+    padding: 0%;    
+}
+nav ul li a{
+    text-decoration: none;
+    color: white;
+    font-weight: bold;
+}
